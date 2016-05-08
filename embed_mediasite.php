@@ -2,7 +2,7 @@
 	/*
 	Plugin Name: Mediasite Embed
 	Plugin URI: http://www.example.com/plugin
-	Description: jacksonにあるMediasiteコンテンツを埋め込むプラグイン
+	Description: Mediasiteコンテンツを埋め込むプラグイン
 	Author: Masaya Okada
 	Version: 0.1
 	Author URI: http://www.mediasite.co.jp
